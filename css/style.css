@@ -1,0 +1,16 @@
+.jumbotron {
+  background: url("../img/jumbo-bg.jpg");
+  background-size: cover;
+}
+
+.navbar {
+  opacity: 0.8;
+}
+
+.button {
+  opacity: 0.8;
+}
+
+.button:hover {
+  opacity: 1;
+}
